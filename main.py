@@ -33,4 +33,4 @@ def make_shirt(shirt_size='large', shirt_text='I love Python'):
 
 make_shirt()
 make_shirt(shirt_size='medium')
-make_shirt(shirt_text='I love pizza')
+make_shirt(shirt_text='I love cheese pizza')
